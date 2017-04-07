@@ -1,0 +1,143 @@
+\documentclass[a4paper,12pt,oneside]{article}%FinalView
+%\documentclass[draft,a4paper,12pt,oneside]{article}%draftView
+
+\input{settings/preamble.tex}%Inputs Preamble for its .tex
+\usepackage[color]{showkeys}%Shows cross ref paths
+
+\begin{document}
+\thispagestyle{empty} % don't show (roman) page number on titlepage
+\begin{titlepage}
+\begin{center}
+\vspace*{1cm}
+	
+%Title
+\textbf{\LARGE{An assessment of structural enthalpy and crystallization pathways of \MgZnCa~ bulk metallic glass and amorphous films}}
+
+\vspace{2cm}
+
+\textbf{Scott Gleason, David Miskovic, Kevin Laws, Michael Ferry}
+
+\vspace{2cm}
+
+UNSW Australia\\ School of Material Science and Engineering
+
+\vspace{2cm}
+
+%Month and Year
+\today
+\end{center}
+\end{titlepage}
+
+\clearpage 
+\pagenumbering{roman}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{ABSTRACT}
+\addcontentsline{toc}{section}{ABSTRACT}
+
+The structural nature and thermal stability of amorphous alloys is highly dependent on the method by which they are produced, i.e. their relaxation rate upon cooling.  Both bulk samples and metallic glass films of \MgZnCa~ were produced by copper mold casting and \gls{dc} magnetron sputtering onto aluminium substrates, respectively. Comparisons between structural enthalpy, crystallization pathways, relaxation and crystallization kinetics of the bulk samples and films were examined by elevated temperature \acrshort{xrd} and \acrshort{dsc}. Compared with equivalent experiments on the bulk alloy, results for the thin films show distinct differences in structural enthalpy and deviations from the expected crystalline phase evolution, displaying minor peak shifts, failure of some phases to evolve, and variations in the evolution rates. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Table of Contents
+%\clearpage
+\newpage
+\tableofcontents\newpage
+\addcontentsline{toc}{section}{TABLE OF CONTENTS}
+\clearpage %% start of main matter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{INTRODUCTION}
+\pagenumbering{arabic}
+\glsresetall
+
+The structural nature and thermal stability of amorphous alloys is highly dependent on the method by which they are produced, i.e. their relaxation rate upon cooling.  Both bulk samples and metallic glass films of \MgZnCa~ were produced by copper mold casting and \gls{dc} magnetron sputtering onto aluminium substrates, respectively. Comparisons between structural enthalpy, crystallization pathways, relaxation and crystallization kinetics of the bulk samples and films were examined by elevated temperature \acrshort{xrd} and \acrshort{dsc}. Compared with equivalent experiments on the bulk alloy, results for the thin films show distinct differences in structural enthalpy and deviations from the expected crystalline phase evolution, displaying minor peak shifts, failure of some phases to evolve, and variations in the evolution rates. 
+
+Key sources \cite{Zhang2013, Zhang2012} 
+\cite{Zhang2011}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{METHOD}
+\glsresetall
+
+The master alloy of \MgZnCa~ was produced using high-purity elements of Mg (99.85 wt\%), Zn (99.995 wt\%), and Ca (99.8 wt\%). The alloy was prepared by induction melting in boron nitride coated graphite crucibles, purged with Ar (99.997 vol.\% purity) five times, and protected with a continuous circulating Ar flow. The alloy was heated and cooled through a cycle 700\degree C, 385\degree C, 650\degree C, 385\degree C, 650\degree C to a casting temperature of 500\degree C to ensure homogeneity. Bulk amorphous \MgZnCa~ plate with a thickness of $XX~ \mu m$ was produced by copper mold injection casting. The $25.4~ mm$ diameter targets were prepared from a cylindrical copper mold gravity casting sectioned to a thickness of $3.25~ mm$.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{RESULTS}
+\glsresetall
+
+%code to put 2 images side by side in a figure
+\begin{figure}[b]
+	\centering
+	%Image 1
+	\begin{subfigure}[htbp]{0.75\textwidth}
+		\includegraphics[width=\textwidth]{Bulk_Heated_XRD_StackFull_Smooth2.png}
+		\caption{}
+		\label{fig:HeatBulkFullStack}
+	\end{subfigure}
+	%Image 2
+	\begin{subfigure}[htbp]{0.75\textwidth}
+		\includegraphics[width=\textwidth]{Bulk_Heated_XRD_Waterfall3D_Smooth2.png}
+		\caption{}
+		\label{fig:HeatBulkWaterFall}
+	\end{subfigure}
+	\caption{(a) Stacked \gls{xrd} patterns from the incremental heating of bulk \MgZnCa. (b) Cascading \gls{xrd} patterns from the incremental heating of bulk \MgZnCa. }%global caption
+	\label{fig:HeatBulk}
+\end{figure}
+
+%code to put 2 images side by side in a figure
+\begin{figure}[b]
+	\centering
+	%Image 1
+	\begin{subfigure}[htbp]{0.75\textwidth}
+		\includegraphics[width=\textwidth]{TF_Facet_HeatXRD_StackFull_Smooth.png}
+		\caption{}
+		\label{fig:HeatFilmFullStack}
+	\end{subfigure}
+	%Image 2
+	\begin{subfigure}[htbp]{0.75\textwidth}
+		\includegraphics[width=\textwidth]{TF_Facet_HeatXRD_Waterfall3D_Smooth.png}
+		\caption{}
+		\label{fig:HeatFilmWaterFall}
+	\end{subfigure}
+	\caption{(a) Stacked \gls{xrd} patterns from the incremental heating of film \MgZnCa. (b) Cascading \gls{xrd} patterns from the incremental heating of film \MgZnCa. }%global caption
+	\label{fig:HeatFilm}
+\end{figure}
+
+%single image
+\begin{figure}[b]
+	\centering
+	\includegraphics[width=0.95\textwidth]{XTalPath_Facet_FullStack_Smooth.png}
+	\caption[Table of contents Capition]{\acrshort{xrd} pattern for \MgZnCa~ heated through several crystallization peaks identified from \acrshort{dsc}}
+	\label{fig:TF_DSC_XRDHeating}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{DISCUSSION}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{CONCLUSIONS}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{ACKNOWLEDGEMENTS}
+
+%People
+Yu Wang for his assistance with \acrshort{xrd} experimentation and Rietveld refinement. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Bibliography
+\bibliography{ThesisBib}
+\bibliographystyle{unsrt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{document}
