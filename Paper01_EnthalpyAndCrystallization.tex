@@ -83,10 +83,29 @@ deposition were for 35 minutes, and saw an average temperature rise of $3 - 4$ \
 Relaxed \gls{dsc} of bulk material taken at different heating rates was used to establish the fragility of the \MgZnCa~ system. From the equations ... a fit of
 $\beta^{-1} = 1.338E - 16e^{5274 (\frac{1}{T-T_{0}})}$ with Adj. $R^{2}=0.972$ was established. This give a $D^{*}=20.4$ which using $D^{*}=590/(m-16)$ Shuai2014 [4, 5] gives a fragility $m=44.9$.
 
+%code to put 2 images side by side in a figure
+\begin{figure}[b]
+	\centering
+	%Image 1
+	\begin{subfigure}[htbp]{0.495\textwidth}
+		\includegraphics[width=\textwidth]{Bulk_Relaxed_Full.png}
+		\caption{}
+		\label{fig:Bulk_Relaxed}
+	\end{subfigure}
+	%Image 2
+	\begin{subfigure}[htbp]{0.495\textwidth}
+		\includegraphics[width=\textwidth]{Bulk_Onset_Peaks_Relaxed_120C.png}
+		\caption{}
+		\label{fig:Bulk_Onsets}
+	\end{subfigure}
+	\caption{(a) Bulk \MgZnCa~ relaxed at 120 \degree C for 10 minutes and heated at various heating rates. The insert stacks the \gls{dsc} curves and labels the \Tg~ and \Tx es of the $100 K/min$ sample. (b) The \Tg s and \Tx es of the bulk \MgZnCa~ at all heating rates. }%global caption
+	\label{fig:DSC_Bulk}
+\end{figure}
+
 %single image
 \begin{figure}[b]
 	\centering
-	\includegraphics[width=0.95\textwidth]{Bulk_Fitted_mValue.png}
+	\includegraphics[width=0.95\textwidth]{Bulk_Fitted_mValue_Tg.png}
 	\caption[Table of contents Capition]{Fitted fragility for the \MgZnCa system obtained by \acrshort{dsc} at various heating rates}
 	\label{fig:Bulk_Fitted_mValue}
 \end{figure}
