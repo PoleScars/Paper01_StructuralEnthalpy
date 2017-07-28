@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  27 JUL 2017 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  28 JUL 2017 14:03
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1462,130 +1462,124 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {C:/Users/Scott/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 36.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 37.
  [1
 
 ]
 (Paper01_EnthalpyAndCrystallization.toc)
 \tf@toc=\write7
  [2]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 58.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 59.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 65.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 66.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\acrshort' on input line 68.
+(hyperref)                removing `\acrshort' on input line 69.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.71 \subsection
-                {\acrshort{dsc} characterization} [1
+l.74 
+      [1
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\acrshort' on input line 71.
+(hyperref)                removing `\acrshort' on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\acrshort' on input line 76.
+(hyperref)                removing `\acrshort' on input line 80.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/DSC_Fragility_Bulk.png, id=140, 774.7344pt x 592.8549pt>
+[2] <./images/DSC_Fragility_Bulk.png, id=150, 774.7344pt x 592.8549pt>
 File: ./images/DSC_Fragility_Bulk.png Graphic file (type png)
 
 <use ./images/DSC_Fragility_Bulk.png>
-Package pdftex.def Info: ./images/DSC_Fragility_Bulk.png used on input line 137
+Package pdftex.def Info: ./images/DSC_Fragility_Bulk.png used on input line 141
 .
 (pdftex.def)             Requested size: 266.03474pt x 203.57626pt.
 File: ./images/DSC_Fragility_Bulk.png Graphic file (type png)
  <use ./images/DSC_Fragility_Bulk.png>
-Package pdftex.def Info: ./images/DSC_Fragility_Bulk.png used on input line 145
+Package pdftex.def Info: ./images/DSC_Fragility_Bulk.png used on input line 149
 .
 (pdftex.def)             Requested size: 266.03474pt x 203.57626pt.
 
-<./images/Bulk_Onset_Peaks_Relaxed_120C.png, id=145, 774.7344pt x 592.8549pt>
+<./images/Bulk_Onset_Peaks_Relaxed_120C.png, id=155, 774.7344pt x 592.8549pt>
 File: ./images/Bulk_Onset_Peaks_Relaxed_120C.png Graphic file (type png)
 
 <use ./images/Bulk_Onset_Peaks_Relaxed_120C.png>
 Package pdftex.def Info: ./images/Bulk_Onset_Peaks_Relaxed_120C.png used on inp
-ut line 153.
+ut line 157.
 (pdftex.def)             Requested size: 266.03474pt x 203.57626pt.
 
-<./images/Onsets_BulkandFilm.png, id=146, 774.7344pt x 592.8549pt>
+<./images/Onsets_BulkandFilm.png, id=156, 774.7344pt x 592.8549pt>
 File: ./images/Onsets_BulkandFilm.png Graphic file (type png)
 
 <use ./images/Onsets_BulkandFilm.png>
-Package pdftex.def Info: ./images/Onsets_BulkandFilm.png used on input line 161
+Package pdftex.def Info: ./images/Onsets_BulkandFilm.png used on input line 165
 .
 (pdftex.def)             Requested size: 266.03474pt x 203.57626pt.
 
-<./images/Bulk_Film_Fragility.png, id=147, 774.7344pt x 592.8549pt>
+<./images/Bulk_Film_Fragility.png, id=157, 774.7344pt x 592.8549pt>
 File: ./images/Bulk_Film_Fragility.png Graphic file (type png)
 
 <use ./images/Bulk_Film_Fragility.png>
-Package pdftex.def Info: ./images/Bulk_Film_Fragility.png used on input line 16
-9.
+Package pdftex.def Info: ./images/Bulk_Film_Fragility.png used on input line 17
+3.
 (pdftex.def)             Requested size: 459.51054pt x 351.63583pt.
 
-<./images/XRD_Annealing_Bulk.png, id=150, 816.651pt x 573.1011pt>
+<./images/XRD_Annealing_Bulk.png, id=160, 816.651pt x 573.1011pt>
 File: ./images/XRD_Annealing_Bulk.png Graphic file (type png)
 
 <use ./images/XRD_Annealing_Bulk.png>
-Package pdftex.def Info: ./images/XRD_Annealing_Bulk.png used on input line 177
+Package pdftex.def Info: ./images/XRD_Annealing_Bulk.png used on input line 181
 .
 (pdftex.def)             Requested size: 435.32422pt x 305.49985pt.
 
-<./images/XRD_Annealing_Film.png, id=155, 816.651pt x 573.1011pt>
+<./images/XRD_Annealing_Film.png, id=165, 816.651pt x 573.1011pt>
 File: ./images/XRD_Annealing_Film.png Graphic file (type png)
 
 <use ./images/XRD_Annealing_Film.png>
-Package pdftex.def Info: ./images/XRD_Annealing_Film.png used on input line 185
+Package pdftex.def Info: ./images/XRD_Annealing_Film.png used on input line 189
 .
 (pdftex.def)             Requested size: 435.32422pt x 305.49985pt.
 
-<./images/XRD_Dynamic_Bulk.png, id=160, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Bulk.png, id=170, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Bulk.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Bulk.png>
-Package pdftex.def Info: ./images/XRD_Dynamic_Bulk.png used on input line 195.
+Package pdftex.def Info: ./images/XRD_Dynamic_Bulk.png used on input line 199.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=161, 774.7344pt x 592.854
+<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=171, 774.7344pt x 592.854
 9pt>
 File: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png Graphic file (type png)
  <use ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png>
 Package pdftex.def Info: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png used 
-on input line 201.
+on input line 205.
 (pdftex.def)             Requested size: 362.77264pt x 277.61057pt.
 
-<./images/XRD_Dynamic_Film.png, id=166, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Film.png, id=176, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Film.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Film.png>
-Package pdftex.def Info: ./images/XRD_Dynamic_Film.png used on input line 214.
+Package pdftex.def Info: ./images/XRD_Dynamic_Film.png used on input line 218.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=167, 774.7344pt x 592.854
+<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=177, 774.7344pt x 592.854
 9pt>
 File: ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png Graphic file (type png)
  <use ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png>
 Package pdftex.def Info: ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png used 
-on input line 220.
+on input line 224.
 (pdftex.def)             Requested size: 362.77264pt x 277.61057pt.
- [2]
+
 (Paper01_EnthalpyAndCrystallization.bbl [3]
 Underfull \hbox (badness 1014) in paragraph at lines 4--9
 \T1/ppl/m/n/12 M. Medraj.  Crys-tal-liza-tion char-ac-ter-is-tics of the Mg-ric
@@ -1599,27 +1593,27 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
  [5 <./images/DSC_Fragility_Bulk.png>] [6 <./images/Bulk_Onset_Peaks_Relaxed_12
 0C.png> <./images/Onsets_BulkandFilm.png>] [7 <./images/Bulk_Film_Fragility.png
 >] [8 <./images/XRD_Annealing_Bulk.png> <./images/XRD_Annealing_Film.png>]
 [9 <./images/XRD_Dynamic_Bulk.png> <./images/Bulk_Heated_XRD_Waterfall3D_Smooth
 2.png>] [10 <./images/XRD_Dynamic_Film.png> <./images/TF_Facet_HeatXRD_Waterfal
 l3D_Smooth.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
  (Paper01_EnthalpyAndCrystallization.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
 Package rerunfilecheck Info: File `Paper01_EnthalpyAndCrystallization.out' has 
 not changed.
-(rerunfilecheck)             Checksum: D7FD72C77F008C29C2BF9B3275BAD6BF;702.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
+(rerunfilecheck)             Checksum: 1E0E9BC273E43B7EDD5D02FB05A76841;768.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
  ) 
 Here is how much of TeX's memory you used:
- 43623 strings out of 493673
- 930981 string characters out of 3143959
- 1122532 words of memory out of 3000000
- 46197 multiletter control sequences out of 15000+200000
+ 43625 strings out of 493673
+ 931011 string characters out of 3143959
+ 1120532 words of memory out of 3000000
+ 46198 multiletter control sequences out of 15000+200000
  39859 words of font info for 99 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  64i,11n,77p,10453b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1650,10 +1644,10 @@ es/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/
 uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (13 pages, 1116882 byt
+Output written on Paper01_EnthalpyAndCrystallization.pdf (13 pages, 1118023 byt
 es).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 338 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 

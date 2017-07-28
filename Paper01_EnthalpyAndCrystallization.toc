@@ -4,8 +4,9 @@
 \contentsline {section}{\numberline {2}METHOD}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Master alloy}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}\acrshort {dc} magnetron sputtering}{1}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}\acrshort {dsc} characterization}{2}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}\acrshort {xrd} characterization}{2}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.3}Stylus Profiler}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}\acrshort {dsc} characterization}{2}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}\acrshort {xrd} characterization}{2}{subsection.2.5}
 \contentsline {section}{\numberline {3}RESULTS}{2}{section.3}
 \contentsline {section}{\numberline {4}DISCUSSION}{3}{section.4}
 \contentsline {section}{\numberline {5}CONCLUSIONS}{4}{section.5}
