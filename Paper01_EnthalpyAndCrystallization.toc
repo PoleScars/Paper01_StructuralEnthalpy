@@ -4,11 +4,12 @@
 \contentsline {section}{\numberline {2}METHOD}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Master alloy}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}\acrshort {dc} magnetron sputtering}{1}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Stylus Profiler}{2}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}\acrshort {dsc} characterization}{2}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}\acrshort {xrd} characterization}{2}{subsection.2.5}
-\contentsline {section}{\numberline {3}RESULTS}{2}{section.3}
-\contentsline {section}{\numberline {4}DISCUSSION}{3}{section.4}
+\contentsline {subsection}{\numberline {2.3}Stylus profiler analysis}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}\acrshort {eds} analysis}{2}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}\acrshort {dsc} characterization}{2}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}\acrshort {xrd} characterization}{2}{subsection.2.6}
+\contentsline {section}{\numberline {3}RESULTS}{3}{section.3}
+\contentsline {section}{\numberline {4}DISCUSSION}{4}{section.4}
 \contentsline {section}{\numberline {5}CONCLUSIONS}{4}{section.5}
 \contentsline {section}{\numberline {6}ACKNOWLEDGEMENTS}{4}{section.6}
 \contentsline {section}{\numberline {7}REFERENCES}{4}{section.7}
