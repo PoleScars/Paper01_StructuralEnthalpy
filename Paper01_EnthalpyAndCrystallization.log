@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  1 AUG 2017 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  1 AUG 2017 16:42
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1501,91 +1501,239 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\acrshort' on input line 83.
 
-[2] <./images/DSC_Fragility_Bulk.png, id=166, 774.7344pt x 592.8549pt>
+[2]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/DSC_Fragility_Bulk.png, id=170, 774.7344pt x 592.8549pt>
 File: ./images/DSC_Fragility_Bulk.png Graphic file (type png)
 
 <use ./images/DSC_Fragility_Bulk.png>
-Package pdftex.def Info: ./images/DSC_Fragility_Bulk.png used on input line 158
+Package pdftex.def Info: ./images/DSC_Fragility_Bulk.png used on input line 162
 .
 (pdftex.def)             Requested size: 314.40001pt x 240.59341pt.
 
-<./images/DSC_Fragility_Film.png, id=169, 774.7344pt x 592.8549pt>
+<./images/DSC_Fragility_Film.png, id=173, 774.7344pt x 592.8549pt>
 File: ./images/DSC_Fragility_Film.png Graphic file (type png)
 
 <use ./images/DSC_Fragility_Film.png>
-Package pdftex.def Info: ./images/DSC_Fragility_Film.png used on input line 166
+Package pdftex.def Info: ./images/DSC_Fragility_Film.png used on input line 170
 .
 (pdftex.def)             Requested size: 314.40001pt x 240.59341pt.
 
-<./images/Bulk_Onset_Peaks_Relaxed_120C.png, id=172, 774.7344pt x 592.8549pt>
+<./images/Bulk_Onset_Peaks_Relaxed_120C.png, id=176, 774.7344pt x 592.8549pt>
 File: ./images/Bulk_Onset_Peaks_Relaxed_120C.png Graphic file (type png)
 
 <use ./images/Bulk_Onset_Peaks_Relaxed_120C.png>
 Package pdftex.def Info: ./images/Bulk_Onset_Peaks_Relaxed_120C.png used on inp
-ut line 174.
+ut line 178.
 (pdftex.def)             Requested size: 266.03474pt x 203.57626pt.
 
-<./images/Onsets_BulkandFilm.png, id=173, 774.7344pt x 592.8549pt>
+<./images/Onsets_BulkandFilm.png, id=177, 774.7344pt x 592.8549pt>
 File: ./images/Onsets_BulkandFilm.png Graphic file (type png)
 
 <use ./images/Onsets_BulkandFilm.png>
-Package pdftex.def Info: ./images/Onsets_BulkandFilm.png used on input line 182
+Package pdftex.def Info: ./images/Onsets_BulkandFilm.png used on input line 186
 .
 (pdftex.def)             Requested size: 266.03474pt x 203.57626pt.
  [3]
-<./images/Bulk_Film_Fragility.png, id=187, 774.7344pt x 592.8549pt>
+<./images/Bulk_Film_Fragility.png, id=191, 774.7344pt x 592.8549pt>
 File: ./images/Bulk_Film_Fragility.png Graphic file (type png)
 
 <use ./images/Bulk_Film_Fragility.png>
 Package pdftex.def Info: ./images/Bulk_Film_Fragility.png used on input line 19
-4.
+8.
 (pdftex.def)             Requested size: 459.51054pt x 351.63583pt.
 
-<./images/XRD_Annealing_Bulk.png, id=190, 816.651pt x 573.1011pt>
+<./images/XRD_Annealing_Bulk.png, id=194, 816.651pt x 573.1011pt>
 File: ./images/XRD_Annealing_Bulk.png Graphic file (type png)
 
 <use ./images/XRD_Annealing_Bulk.png>
-Package pdftex.def Info: ./images/XRD_Annealing_Bulk.png used on input line 202
+Package pdftex.def Info: ./images/XRD_Annealing_Bulk.png used on input line 206
 .
 (pdftex.def)             Requested size: 435.32422pt x 305.49985pt.
 
-<./images/XRD_Annealing_Film.png, id=195, 816.651pt x 573.1011pt>
+<./images/XRD_Annealing_Film.png, id=199, 816.651pt x 573.1011pt>
 File: ./images/XRD_Annealing_Film.png Graphic file (type png)
 
 <use ./images/XRD_Annealing_Film.png>
-Package pdftex.def Info: ./images/XRD_Annealing_Film.png used on input line 210
+Package pdftex.def Info: ./images/XRD_Annealing_Film.png used on input line 214
 .
 (pdftex.def)             Requested size: 435.32422pt x 305.49985pt.
 
-<./images/XRD_Dynamic_Bulk.png, id=200, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Bulk.png, id=204, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Bulk.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Bulk.png>
-Package pdftex.def Info: ./images/XRD_Dynamic_Bulk.png used on input line 220.
+Package pdftex.def Info: ./images/XRD_Dynamic_Bulk.png used on input line 224.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=201, 774.7344pt x 592.854
+<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=205, 774.7344pt x 592.854
 9pt>
 File: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png Graphic file (type png)
  <use ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png>
 Package pdftex.def Info: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png used 
-on input line 226.
+on input line 230.
 (pdftex.def)             Requested size: 362.77264pt x 277.61057pt.
 
-<./images/XRD_Dynamic_Film.png, id=206, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Film.png, id=210, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Film.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Film.png>
-Package pdftex.def Info: ./images/XRD_Dynamic_Film.png used on input line 239.
+Package pdftex.def Info: ./images/XRD_Dynamic_Film.png used on input line 243.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=207, 774.7344pt x 592.854
+<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=211, 774.7344pt x 592.854
 9pt>
 File: ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png Graphic file (type png)
  <use ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png>
 Package pdftex.def Info: ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png used 
-on input line 245.
+on input line 249.
 (pdftex.def)             Requested size: 362.77264pt x 277.61057pt.
+
+<./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png, id=216, 597.31155pt x
+ 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png Graphic file (typ
+e png)
+ <use ./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.pn
+g used on input line 260.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png, id=217, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.p
+ng used on input line 261.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png, id=218, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.p
+ng used on input line 262.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png, id=219, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.p
+ng used on input line 266.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png, id=220, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.p
+ng used on input line 267.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png, id=221, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.p
+ng used on input line 268.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png, id=222, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.p
+ng used on input line 272.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png, id=223, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.p
+ng used on input line 273.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png, id=224, 597.31155pt
+ x 420.6114pt>
+File: ./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png Graphic file (t
+ype png)
+ <use ./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.
+png used on input line 274.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png, id=227, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.p
+ng used on input line 283.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png, id=228, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.p
+ng used on input line 284.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png, id=229, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.p
+ng used on input line 285.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png, id=230, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.p
+ng used on input line 289.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png, id=231, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.p
+ng used on input line 290.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png, id=232, 597.31155pt 
+x 420.6114pt>
+File: ./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png Graphic file (ty
+pe png)
+ <use ./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.p
+ng used on input line 291.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
+
+<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png, id=233, 597.31155pt
+ x 420.6114pt>
+File: ./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png Graphic file (t
+ype png)
+ <use ./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png>
+Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.
+png used on input line 295.
+(pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
 (Paper01_EnthalpyAndCrystallization.bbl
 Underfull \hbox (badness 1014) in paragraph at lines 4--9
@@ -1600,28 +1748,40 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
  [6 <./images/DSC_Fragility_Bulk.png> <./images/DSC_Fragility_Film.png>]
 [7 <./images/Bulk_Onset_Peaks_Relaxed_120C.png> <./images/Onsets_BulkandFilm.pn
 g>] [8 <./images/Bulk_Film_Fragility.png>] [9 <./images/XRD_Annealing_Bulk.png>
  <./images/XRD_Annealing_Film.png>] [10 <./images/XRD_Dynamic_Bulk.png> <./imag
 es/Bulk_Heated_XRD_Waterfall3D_Smooth2.png>] [11 <./images/XRD_Dynamic_Film.png
-> <./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
+> <./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png>] [12 <./images/input_Raw_B
+ulk_NoLeveling_5Ks_result_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_10Ks_r
+esult_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png> <./
+images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png> <./images/input_Raw_Bul
+k_NoLeveling_30Ks_result_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_40Ks_re
+sult_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png> <./i
+mages/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png> <./images/input_Raw_Bulk
+_NoLeveling_100Ks_result_A5lsc.png>] [13 <./images/input_Raw_Film_NoLeveling_15
+Ks_result_A5lsc.png> <./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png>
+ <./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png> <./images/input_Raw
+_Film_NoLeveling_40Ks_result_A5lsc.png> <./images/input_Raw_Film_NoLeveling_60K
+s_result_A5lsc.png> <./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png> 
+<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 329.
 
 (Paper01_EnthalpyAndCrystallization.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
 Package rerunfilecheck Info: File `Paper01_EnthalpyAndCrystallization.out' has 
 not changed.
 (rerunfilecheck)             Checksum: 127ED489C5AEF560333E3D571A33576A;840.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 329.
  ) 
 Here is how much of TeX's memory you used:
- 43621 strings out of 493673
- 931036 string characters out of 3143959
- 1115532 words of memory out of 3000000
- 46192 multiletter control sequences out of 15000+200000
+ 43707 strings out of 493673
+ 935770 string characters out of 3143959
+ 1119735 words of memory out of 3000000
+ 46258 multiletter control sequences out of 15000+200000
  39859 words of font info for 99 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  64i,11n,77p,10453b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1658,10 +1818,10 @@ es/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/
 uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (14 pages, 1192579 byt
+Output written on Paper01_EnthalpyAndCrystallization.pdf (16 pages, 1805633 byt
 es).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 421 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 268 words of extra memory for PDF output out of 10000 (max. 10000000)
 
