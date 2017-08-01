@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  1 AUG 2017 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  1 AUG 2017 17:23
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1735,7 +1735,21 @@ Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.
 png used on input line 295.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-(Paper01_EnthalpyAndCrystallization.bbl
+<./images/Decon_Onsets_BR.png, id=236, 578.16pt x 408.68684pt>
+File: ./images/Decon_Onsets_BR.png Graphic file (type png)
+
+<use ./images/Decon_Onsets_BR.png>
+Package pdftex.def Info: ./images/Decon_Onsets_BR.png used on input line 304.
+(pdftex.def)             Requested size: 290.22107pt x 205.14735pt.
+
+<./images/Decon_peak_area_BR.png, id=237, 578.16pt x 408.68684pt>
+File: ./images/Decon_peak_area_BR.png Graphic file (type png)
+
+<use ./images/Decon_peak_area_BR.png>
+Package pdftex.def Info: ./images/Decon_peak_area_BR.png used on input line 308
+.
+(pdftex.def)             Requested size: 290.22107pt x 205.14735pt.
+ (Paper01_EnthalpyAndCrystallization.bbl
 Underfull \hbox (badness 1014) in paragraph at lines 4--9
 \T1/ppl/m/n/12 M. Medraj.  Crys-tal-liza-tion char-ac-ter-is-tics of the Mg-ric
 h metal-lic glasses in the
@@ -1748,7 +1762,7 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
  [6 <./images/DSC_Fragility_Bulk.png> <./images/DSC_Fragility_Film.png>]
 [7 <./images/Bulk_Onset_Peaks_Relaxed_120C.png> <./images/Onsets_BulkandFilm.pn
 g>] [8 <./images/Bulk_Film_Fragility.png>] [9 <./images/XRD_Annealing_Bulk.png>
@@ -1766,22 +1780,23 @@ Ks_result_A5lsc.png> <./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png>
  <./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png> <./images/input_Raw
 _Film_NoLeveling_40Ks_result_A5lsc.png> <./images/input_Raw_Film_NoLeveling_60K
 s_result_A5lsc.png> <./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png> 
-<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 329.
+<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png>] [14 <./images/Deco
+n_Onsets_BR.png> <./images/Decon_peak_area_BR.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
 
 (Paper01_EnthalpyAndCrystallization.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 342.
 Package rerunfilecheck Info: File `Paper01_EnthalpyAndCrystallization.out' has 
 not changed.
 (rerunfilecheck)             Checksum: 127ED489C5AEF560333E3D571A33576A;840.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 329.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 342.
  ) 
 Here is how much of TeX's memory you used:
- 43707 strings out of 493673
- 935770 string characters out of 3143959
- 1119735 words of memory out of 3000000
- 46258 multiletter control sequences out of 15000+200000
+ 43720 strings out of 493673
+ 936124 string characters out of 3143959
+ 1120843 words of memory out of 3000000
+ 46267 multiletter control sequences out of 15000+200000
  39859 words of font info for 99 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  64i,11n,77p,10453b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1818,10 +1833,10 @@ es/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/
 uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (16 pages, 1805633 byt
+Output written on Paper01_EnthalpyAndCrystallization.pdf (17 pages, 1873628 byt
 es).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 268 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 430 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 278 words of extra memory for PDF output out of 10000 (max. 10000000)
 
