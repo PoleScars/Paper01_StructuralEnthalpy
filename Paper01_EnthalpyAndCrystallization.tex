@@ -90,6 +90,7 @@ Dynamic \acrshort{xrd} (D8, Bruker, Cu $K_{\alpha}$ X-ray source, $\lambda = 1.5
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{RESULTS}
+\subsection{Alloy composition}
 
 From the 35 minute depositions a nominal film thickness of $2.5 \mu m$ was obtained, giving a deposition rate of approximately $1.2 nm/s$. The temperature within the chamber was found to rise $3 - 4$\degree C, significantly less than the expected $20K$ suggested by similar setups \cite{Wang2014}.
 
@@ -109,6 +110,77 @@ From the 35 minute depositions a nominal film thickness of $2.5 \mu m$ was obtai
 	\caption{\acrshort{eds} composition of bulk and film \MgZnCa~ in atomic weight percent.}
 	\label{tab:EDS_Composition}
 \end{table}
+
+\subsection{\acrshort{dsc}}
+\subsubsection{Isothermal \acrshort{dsc}}
+
+%single image
+\begin{figure}[b]
+	\centering
+	\includegraphics[width=0.65\textwidth]{DSC_Fragility_Bulk.png}
+	\caption[Table of contents Capition]{Bulk \MgZnCa~ relaxed at 120 \degree C for 10 minutes and heated at various heating rates. The insert stacks the \gls{dsc} curves and labels the \Tg~ and \Tx es of the $100 K/min$ sample.}%global caption
+	\label{fig:DSC_vHeatingRate_Bulk}
+\end{figure}
+
+%single image
+\begin{figure}[b]
+	\centering
+	\includegraphics[width=0.65\textwidth]{DSC_Fragility_Film.png}
+	\caption[Table of contents Capition]{Unrelaxed film \MgZnCa~ heated at various heating rates. The insert stacks the \gls{dsc} curves and labels the \Tg~ and \Tx es of the $100 K/min$ sample.}%global caption
+	\label{fig:DSC_vHeatingRate_Film}
+\end{figure}
+
+\subsubsection{Fragility}
+
+Variable heating rate \acrshort{dsc} for both the bulk and film \MgZnCa~ was used to establish the fragility of the system. Numerical solutions where used to fit the equation $\beta^{-1} = \tau_{0}~ e^{(\frac{D^{*}T_{0}}{T-T_{0}})}$ [source] for both the bulk and film. The fragility $m$ could then be calculated from the relationship $D^{*}=590/(m-16)$ Shuai2014 [4, 5]. 
+
+For the bulk it was found $\beta^{-1} = 1.338E - 16e^{5274 (\frac{1}{T-T_{0}})}$ with Adj. $R^{2}=0.972$, giving a $D^{*}=20.4$, and a fragility $m=44.9$. For the film $\beta^{-1} = 5.921E - 11e^{2766 (\frac{1}{T-T_{0}})}$ with Adj. $R^{2}=0.861$, giving a $D^{*}=10.0$, and fragility $m=75.0$. See Figure \ref{fig:Fragility_BulkFilm_mValue}.
+
+%single image
+\begin{figure}[b]
+	\centering
+	\includegraphics[width=0.95\textwidth]{Bulk_Film_Fragility.png}
+	\caption[Table of contents Capition]{Fitted fragility for the \MgZnCa system obtained by \acrshort{dsc} at various heating rates}
+	\label{fig:Fragility_BulkFilm_mValue}
+\end{figure}
+
+\subsection{\acrshort{dsc} deconvolution}
+
+%MultiFigure
+\begin{figure}[b]
+	\centering
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png}
+	\medskip
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png}
+	\medskip
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png}
+	\caption{\acrshort{dsc} deconvolution for the bulk. From left to right, top to bottom, 5, 10, 15, 20, 30, 40, 60, 80, 100 K/min.}
+	\label{fig:DSC_Bulk_Decon}
+\end{figure}
+
+%MultiFigure
+\begin{figure}[b]
+	\centering
+	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png}
+	\medskip
+	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png}\quad
+	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png}
+	\medskip
+	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png}
+	\caption{\acrshort{dsc} deconvolution for the film. From left to right, top to bottom, 15, 20, 30, 40, 60, 80, 100 K/min.}
+	\label{fig:DSC_Film_Decon}
+\end{figure}
+
+\subsubsection{Onset determination}
 
 Both the bulk and film \MgZnCa~ were examined at various \acrshort{dsc} heating rates to observe changed in the \Tg and \Tx temperatures. As expected higher heating rates resulted endothermic peaks shifting to higher temperatures and curve convolution. 
 
@@ -159,22 +231,6 @@ Numerical solutions were used to deconvolution the \acrshort{dsc} data so the va
 %single image
 \begin{figure}[b]
 	\centering
-	\includegraphics[width=0.65\textwidth]{DSC_Fragility_Bulk.png}
-	\caption[Table of contents Capition]{Bulk \MgZnCa~ relaxed at 120 \degree C for 10 minutes and heated at various heating rates. The insert stacks the \gls{dsc} curves and labels the \Tg~ and \Tx es of the $100 K/min$ sample.}%global caption
-	\label{fig:DSC_vHeatingRate_Bulk}
-\end{figure}
-
-%single image
-\begin{figure}[b]
-	\centering
-	\includegraphics[width=0.65\textwidth]{DSC_Fragility_Film.png}
-	\caption[Table of contents Capition]{Unrelaxed film \MgZnCa~ heated at various heating rates. The insert stacks the \gls{dsc} curves and labels the \Tg~ and \Tx es of the $100 K/min$ sample.}%global caption
-	\label{fig:DSC_vHeatingRate_Film}
-\end{figure}
-
-%single image
-\begin{figure}[b]
-	\centering
 	\includegraphics[width=0.55\textwidth]{Bulk_Onset_Peaks_Relaxed_120C.png}
 	\caption[Table of contents Capition]{The \Tg s and \Tx es of the bulk \MgZnCa~ at all heating rates. }%global caption
 	\label{fig:DSC_Onsets_Bulk}
@@ -188,17 +244,22 @@ Numerical solutions were used to deconvolution the \acrshort{dsc} data so the va
 	\label{fig:DSC_Onsets_BulkFilm}
 \end{figure}
 
-Variable heating rate \acrshort{dsc} for both the bulk and film \MgZnCa~ was used to establish the fragility of the system. Numerical solutions where used to fit the equation $\beta^{-1} = \tau_{0}~ e^{(\frac{D^{*}T_{0}}{T-T_{0}})}$ [source] for both the bulk and film. The fragility $m$ could then be calculated from the relationship $D^{*}=590/(m-16)$ Shuai2014 [4, 5]. 
+\subsubsection{Reaction enthalpy}
 
-For the bulk it was found $\beta^{-1} = 1.338E - 16e^{5274 (\frac{1}{T-T_{0}})}$ with Adj. $R^{2}=0.972$, giving a $D^{*}=20.4$, and a fragility $m=44.9$. For the film $\beta^{-1} = 5.921E - 11e^{2766 (\frac{1}{T-T_{0}})}$ with Adj. $R^{2}=0.861$, giving a $D^{*}=10.0$, and fragility $m=75.0$. See Figure \ref{fig:Fragility_BulkFilm_mValue}.
-
-%single image
+%MultiFigure
 \begin{figure}[b]
 	\centering
-	\includegraphics[width=0.95\textwidth]{Bulk_Film_Fragility.png}
-	\caption[Table of contents Capition]{Fitted fragility for the \MgZnCa system obtained by \acrshort{dsc} at various heating rates}
-	\label{fig:Fragility_BulkFilm_mValue}
+	\includegraphics[width=.6\textwidth]{Decon_Onsets_BR.png}
+	\medskip
+	\includegraphics[width=.6\textwidth]{Decon_peak_area_BR.png}
+	\caption{\acrshort{dsc} onset temperatures and enthalpy of formation for the bulk and film.}
+	\label{fig:DSC_Decon}
 \end{figure}
+
+\subsubsection{Relaxation enthalpy}
+
+\subsection{\acrshort{xrd}}
+\subsubsection{Annealing \acrshort{xrd}}
 
 %single image
 \begin{figure}[b]
@@ -215,6 +276,8 @@ For the bulk it was found $\beta^{-1} = 1.338E - 16e^{5274 (\frac{1}{T-T_{0}})}$
 	\caption[Table of contents Capition]{\acrshort{xrd} pattern for Film \MgZnCa~ heated through several crystallization peaks identified from \acrshort{dsc}}
 	\label{fig:XRD_Annealing_Film}
 \end{figure}
+
+\subsubsection{Dynamic \acrshort{xrd}}
 
 %code to put 2 images side by side in a figure
 \begin{figure}[b]
@@ -252,63 +315,6 @@ For the bulk it was found $\beta^{-1} = 1.338E - 16e^{5274 (\frac{1}{T-T_{0}})}$
 	\end{subfigure}
 	\caption{(a) Stacked \gls{xrd} patterns from the incremental heating of film \MgZnCa. (b) Cascading \gls{xrd} patterns from the incremental heating of film \MgZnCa. }%global caption
 	\label{fig:XRD_Dynamic_Film}
-\end{figure}
-
-%MultiFigure
-\begin{figure}[b]
-	\centering
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png}
-	
-	\medskip
-	
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png}
-	
-	\medskip
-	
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png}
-	
-	\caption{\acrshort{dsc} deconvolution for the bulk. From left to right, top to bottom, 5, 10, 15, 20, 30, 40, 60, 80, 100 K/min.}
-	\label{fig:DSC_Bulk_Decon}
-\end{figure}
-
-%MultiFigure
-\begin{figure}[b]
-	\centering
-	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png}
-	
-	\medskip
-	
-	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png}\quad
-	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png}
-	
-	\medskip
-	
-	\includegraphics[width=.3\textwidth]{input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png}
-	
-	\caption{\acrshort{dsc} deconvolution for the film. From left to right, top to bottom, 15, 20, 30, 40, 60, 80, 100 K/min.}
-	\label{fig:DSC_Film_Decon}
-\end{figure}
-
-%MultiFigure
-\begin{figure}[b]
-	\centering
-	\includegraphics[width=.6\textwidth]{Decon_Onsets_BR.png}
-	
-	\medskip
-	
-	\includegraphics[width=.6\textwidth]{Decon_peak_area_BR.png}
-	
-	\caption{\acrshort{dsc} onset temperatures and enthalpy of formation for the bulk and film.}
-	\label{fig:DSC_Decon}
 \end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
