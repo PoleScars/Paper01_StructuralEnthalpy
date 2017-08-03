@@ -139,7 +139,21 @@ The film was examined at \glspl{ht} of 15, 20, 30, 40, 60, 80, and 100 $K/min$. 
 
 \subsubsection{Fragility}
 
-Variable heating rate \acrshort{dsc} for both the bulk and film \MgZnCa~ was used to establish the fragility of the system. Numerical solutions where used to fit the equation $\beta^{-1} = \tau_{0}~ e^{(\frac{D^{*}T_{0}}{T-T_{0}})}$ \cite{Busch1998} for both the bulk and film. The fragility $m$ could then be calculated from the relationship $D^{*}=590/(m-16)$ \cite{Angell2002, Wei2014}.
+Using the isochronic \acrshort{dsc} data the fragility of the \MgZnCa~ system could be established for both the bulk and film. Numerical solutions where used to fit the \gls{vft} relationship for \gls{ht} \cite{Busch1998}.
+
+\begin{equation}
+	\beta^{-1} = \tau_{0}~ e^{(\frac{D^{*}T_{0}}{T_{g}-T_{0}})}
+	\label{equ:VFT}
+\end{equation}
+
+Where $\tau_{0}$ is a pre-exponential factor, $D^{*}$ is the liquid Fragility parameter, and $T_{0}$ is the \gls{vft} temperature where the barrier to flow becomes infinite.
+
+The fragility $m$ could then be calculated from Equation \ref{equ:dStar} \cite{Angell2002, Wei2014}.
+
+\begin{equation}
+	D^{*}=590/(m-16)
+	\label{equ:dStar}
+\end{equation}
 
 For the bulk it was found $\beta^{-1} = 1.338E - 16e^{5274 (\frac{1}{T-T_{0}})}$ with Adj. $R^{2}=0.972$, giving a $D^{*}=20.4$, and a fragility $m=44.9$. For the film $\beta^{-1} = 5.921E - 11e^{2766 (\frac{1}{T-T_{0}})}$ with Adj. $R^{2}=0.861$, giving a $D^{*}=10.0$, and fragility $m=75.0$. See Figure \ref{fig:Fragility_BulkFilm_mValue}.
 
