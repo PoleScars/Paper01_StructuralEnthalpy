@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  3 AUG 2017 13:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  7 AUG 2017 14:51
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1524,13 +1524,13 @@ x 420.6114pt> [4]
 <./images/Onsets_BulkandFilm.png, id=55, 774.7344pt x 592.8549pt>
 <./images/Decon_Onsets_BR.png, id=56, 578.16pt x 408.68684pt>
 <./images/Decon_peak_area_BR.png, id=57, 578.16pt x 408.68684pt>
-<./images/XRD_Annealing_Bulk.png, id=58, 816.651pt x 573.1011pt>
-<./images/XRD_Annealing_Film.png, id=59, 816.651pt x 573.1011pt>
-<./images/XRD_Dynamic_Bulk.png, id=60, 816.651pt x 573.1011pt>
-<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=61, 774.7344pt x 592.8549
-pt> <./images/XRD_Dynamic_Film.png, id=62, 816.651pt x 573.1011pt>
-<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=63, 774.7344pt x 592.8549
-pt> [5] (Paper01_EnthalpyAndCrystallization.bbl
+<./images/XRD_Annealing_Bulk.png, id=58, 816.651pt x 573.1011pt> [5]
+<./images/XRD_Annealing_Film.png, id=62, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Bulk.png, id=63, 816.651pt x 573.1011pt>
+<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=64, 774.7344pt x 592.8549
+pt> <./images/XRD_Dynamic_Film.png, id=65, 816.651pt x 573.1011pt>
+<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=66, 774.7344pt x 592.8549
+pt> (Paper01_EnthalpyAndCrystallization.bbl
 Underfull \hbox (badness 1014) in paragraph at lines 4--9
 \T1/ppl/m/n/12 M. Medraj.  Crys-tal-liza-tion char-ac-ter-is-tics of the Mg-ric
 h metal-lic glasses in the
@@ -1555,7 +1555,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 369.
 Here is how much of TeX's memory you used:
  43686 strings out of 493673
  934775 string characters out of 3143959
- 1124553 words of memory out of 3000000
+ 1119563 words of memory out of 3000000
  46296 multiletter control sequences out of 15000+200000
  40172 words of font info for 100 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -1570,7 +1570,7 @@ enc} <C:\Users\Scott\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
 les/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
 rw/palatino/uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (18 pages, 162904 byte
+Output written on Paper01_EnthalpyAndCrystallization.pdf (18 pages, 163055 byte
 s).
 PDF statistics:
  269 PDF objects out of 1000 (max. 8388607)
