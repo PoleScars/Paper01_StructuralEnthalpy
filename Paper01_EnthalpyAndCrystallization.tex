@@ -1,5 +1,5 @@
-%\documentclass[a4paper,12pt,oneside]{article}%FinalView
-\documentclass[draft,a4paper,12pt,oneside]{article}%draftView
+\documentclass[a4paper,12pt,oneside]{article}%FinalView
+%\documentclass[draft,a4paper,12pt,oneside]{article}%draftView
 
 \input{settings/preamble.tex}%Inputs Preamble for its .tex
 \usepackage[color]{showkeys}%Shows cross ref paths
@@ -200,9 +200,18 @@ Using these two equations for the bulk it was found $\beta^{-1} = 1.338E - 16e^{
 
 \subsubsection{Onset determination}
 
-Numerical solutions were used to deconvolute the isochronic \acrshort{dsc} data so the various \Tx~ onsets could be accurately determined. This numerical fitting utilised a summation of skewed Gaussian curves to fit a target curve corresponding to the original data; as is a common method \cite{Ashour2010, Yamamoto2007, Spink2008, Spink2015, Schaffer2005}. The details of the fits for both the bulk and film are shown in Figures \ref{fig:DSC_Bulk_Decon} and \ref{fig:DSC_Film_Decon}. 
+Numerical solutions were used to deconvolute the isochronic \acrshort{dsc} data so the various \Tx~ onsets could be accurately determined. This numerical fitting utilised a summation of skewed Gaussian curves to fit a target curve corresponding to the original data; as is a common method \cite{Ashour2010, Yamamoto2007, Spink2008, Spink2015, Schaffer2005}. This fitting summation takes the form of Equation \ref{equ:GaussianSummation} \todo{this is non-skewed form. It is a place holder}.
 
-The results of the deconvolution are presented in Table \ref{tab:BulkOnsets} for the bulk and Table \ref{tab:FilmOnsets} for the film. Note \Tg~ and \Tx$_{1}$ are not obtained from the original raw data, not the deconvolution.
+\begin{equation}
+	f(x) = \sum_{n=i}^{n} h_{i}~ e^-{\bigg(\frac{(x-T_{i})^2}{(2c_{j})^2}\bigg)}
+	\label{equ:GaussianSummation}
+\end{equation}
+
+Where $h$ is the enthalpy peak intensity, $T$ is the temperature at the enthalpy peak centre, and $c$ is the Gaussian RMS width.
+
+The final solutions of this fitting for both the bulk and film are shown in Figures \ref{fig:DSC_Bulk_Decon} and \ref{fig:DSC_Film_Decon}. 
+
+The results of the deconvolution are presented in Table \ref{tab:BulkOnsets} for the bulk and Table \ref{tab:FilmOnsets} for the film. Note \Tg~ and \Tx$_{1}$ are obtained from the original raw data, not the deconvolution.
 
 \begin{table}[h]
 	\centering
