@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  8 AUG 2017 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  8 AUG 2017 11:31
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1530,13 +1530,19 @@ x 420.6114pt> [4]
 <./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=64, 774.7344pt x 592.8549
 pt> <./images/XRD_Dynamic_Film.png, id=65, 816.651pt x 573.1011pt>
 <./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=66, 774.7344pt x 592.8549
-pt> (Paper01_EnthalpyAndCrystallization.bbl
-Underfull \hbox (badness 1014) in paragraph at lines 4--9
-\T1/ppl/m/n/12 M. Medraj.  Crys-tal-liza-tion char-ac-ter-is-tics of the Mg-ric
-h metal-lic glasses in the
+pt> (Paper01_EnthalpyAndCrystallization.bbl [6]
+Underfull \hbox (badness 1635) in paragraph at lines 30--34
+[]\T1/ppl/m/n/12 R. Busch, W. Liu, and W. L. John-son.  Ther-mo-dy-nam-ics and 
+ki-net-ics of the
  []
 
-[6])
+
+Underfull \hbox (badness 2495) in paragraph at lines 30--34
+\T1/ppl/m/n/12 Mg65Cu25Y10 bulk metal-lic glass form-ing liq-uid.  \T1/ppl/m/it
+/12 Jour-nal of Ap-plied Physics\T1/ppl/m/n/12 ,
+ []
+
+)
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.)
@@ -1553,10 +1559,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 369.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 369.
  ) 
 Here is how much of TeX's memory you used:
- 43686 strings out of 493673
- 934775 string characters out of 3143959
- 1120563 words of memory out of 3000000
- 46296 multiletter control sequences out of 15000+200000
+ 43701 strings out of 493673
+ 935051 string characters out of 3143959
+ 1120641 words of memory out of 3000000
+ 46311 multiletter control sequences out of 15000+200000
  40172 words of font info for 100 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  64i,11n,77p,10453b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1570,10 +1576,10 @@ enc} <C:\Users\Scott\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
 les/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
 rw/palatino/uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (18 pages, 163176 byte
+Output written on Paper01_EnthalpyAndCrystallization.pdf (18 pages, 166883 byte
 s).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
+ 275 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  158 words of extra memory for PDF output out of 10000 (max. 10000000)
 

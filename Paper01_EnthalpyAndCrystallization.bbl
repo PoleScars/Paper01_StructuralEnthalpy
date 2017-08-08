@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Zhang2013}
 Y.~N. Zhang, G.~J. Rocher, B.~Briccoli, D.~Kevorkov, X.~B. Liu, Z.~Altounian,
@@ -43,5 +43,36 @@ Shuai Wei, Zach Evenson, Isabella Gallino, and Ralf Busch.
 \newblock The impact of fragility on the calorimetric glass transition in bulk
   metallic glasses.
 \newblock {\em Intermetallics}, 55:138--144, 2014.
+
+\bibitem{Ashour2010}
+Samir~K. Ashour and Mahmood~A. Abdel-hameed.
+\newblock Approximate skew normal distribution.
+\newblock {\em Journal of Advanced Research}, 1(4):341--350, 2010.
+
+\bibitem{Yamamoto2007}
+Yuzo Yamamoto, Yuichi Inoue, Teruaki Onai, Chikashi Doshu, Hiroshi Takahashi,
+  and Hiroki Uehara.
+\newblock Deconvolution analyses of differential scanning calorimetry profiles
+  of $\beta$-crystallized polypropylenes with synchronized x-ray measurements.
+\newblock {\em Macromolecules}, 40(8):2745--2750, 2007.
+
+\bibitem{Schaffer2005}
+Bal{\'a}zs Sch{\"a}ffer, B{\'e}la Sch{\"a}ffer, and D.~L{\~o}rinczy.
+\newblock Decomposition of dsc curves of dairy products with gaussian
+  functions.
+\newblock {\em Journal of Thermal Analysis and Calorimetry}, 82(2):531--535,
+  2005.
+
+\bibitem{Spink2008}
+Charles~H. Spink.
+\newblock {\em Differential Scanning Calorimetry}, volume Volume 84, pages
+  115--141.
+\newblock Academic Press, 2008.
+
+\bibitem{Spink2015}
+Charles~H. Spink.
+\newblock The deconvolution of differential scanning calorimetry unfolding
+  transitions.
+\newblock {\em Methods}, 76:78--86, 2015.
 
 \end{thebibliography}
