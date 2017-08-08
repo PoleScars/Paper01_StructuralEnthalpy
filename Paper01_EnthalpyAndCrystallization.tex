@@ -164,6 +164,20 @@ Using these two equations for the bulk it was found $\beta^{-1} = 1.338E - 16e^{
 
 \subsection{\acrshort{dsc} deconvolution}
 
+\subsubsection{Onset determination}
+
+Numerical 
+solutions were used to deconvolute the isochronic \acrshort{dsc} data so the various \Tx~ onsets could be accurately determined. This numerical fitting utilised a summation of skewed Gaussian curves to fit a target curve corresponding to the original data; as is a common method \cite{Ashour2010, Yamamoto2007, Spink2008, Spink2015, Schaffer2005}. This fitting summation takes the form of Equation \ref{equ:GaussianSummation} \todo{this is non-skewed form. It is a place holder}.
+
+\begin{equation}
+	f(x) = \sum_{n=i}^{n} h_{i}~ e^-{\bigg(\frac{(x-T_{i})^2}{(2c_{j})^2}\bigg)}
+	\label{equ:GaussianSummation}
+\end{equation}
+
+Where $h$ is the enthalpy peak intensity, $T$ is the temperature at the enthalpy peak centre, and $c$ is the Gaussian RMS width.
+
+The final converged solutions of this fitting for both the bulk and film are shown in Figures \ref{fig:DSC_Bulk_Decon} and \ref{fig:DSC_Film_Decon} respectively. These results are tabulated in Table \ref{tab:BulkOnsets} for the bulk and Table \ref{tab:FilmOnsets} for the film. Note \Tg~ and \Tx$_{1}$ are obtained from the original raw data, not the deconvolution.
+
 %MultiFigure
 \begin{figure}[b]
 	\centering
@@ -197,19 +211,6 @@ Using these two equations for the bulk it was found $\beta^{-1} = 1.338E - 16e^{
 	\caption{\acrshort{dsc} deconvolution for the film. From left to right, top to bottom, 15, 20, 30, 40, 60, 80, 100 K/min.}
 	\label{fig:DSC_Film_Decon}
 \end{figure}
-
-\subsubsection{Onset determination}
-
-Numerical solutions were used to deconvolute the isochronic \acrshort{dsc} data so the various \Tx~ onsets could be accurately determined. This numerical fitting utilised a summation of skewed Gaussian curves to fit a target curve corresponding to the original data; as is a common method \cite{Ashour2010, Yamamoto2007, Spink2008, Spink2015, Schaffer2005}. This fitting summation takes the form of Equation \ref{equ:GaussianSummation} \todo{this is non-skewed form. It is a place holder}.
-
-\begin{equation}
-	f(x) = \sum_{n=i}^{n} h_{i}~ e^-{\bigg(\frac{(x-T_{i})^2}{(2c_{j})^2}\bigg)}
-	\label{equ:GaussianSummation}
-\end{equation}
-
-Where $h$ is the enthalpy peak intensity, $T$ is the temperature at the enthalpy peak centre, and $c$ is the Gaussian RMS width.
-
-The final converged solutions of this fitting for both the bulk and film are shown in Figures \ref{fig:DSC_Bulk_Decon} and \ref{fig:DSC_Film_Decon} respectively. These results are tabulated in Table \ref{tab:BulkOnsets} for the bulk and Table \ref{tab:FilmOnsets} for the film. Note \Tg~ and \Tx$_{1}$ are obtained from the original raw data, not the deconvolution.
 
 \begin{table}[h]
 	\centering
@@ -271,8 +272,7 @@ The final converged solutions of this fitting for both the bulk and film are sho
 
 \subsubsection{Reaction enthalpy}
 
-
-Target error plot? 
+The deconvolution fits were integrated to find the area under each curves. This information provides the \gls{h} of the crystallization of each phase. This is presented in Tables \ref{tab:Bulk_Enthalpy} and \ref{tab:Film_Enthalpy} for the bulk and film respectively. Figure \ref{fig:DSC_Decon} shows the \Tx~ onsets and \acrfull{h} for both the bulk and film plotted together.
 
 \begin{table}[h]
 	\centering
