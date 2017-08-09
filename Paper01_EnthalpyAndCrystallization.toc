@@ -19,8 +19,8 @@
 \contentsline {subsubsection}{\numberline {3.3.3}Relaxation enthalpy}{6}{subsubsection.3.3.3}
 \contentsline {subsection}{\numberline {3.4}\acrshort {xrd}}{7}{subsection.3.4}
 \contentsline {subsubsection}{\numberline {3.4.1}Annealing \acrshort {xrd}}{7}{subsubsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.2}Dynamic \acrshort {xrd}}{7}{subsubsection.3.4.2}
-\contentsline {section}{\numberline {4}DISCUSSION}{7}{section.4}
+\contentsline {subsubsection}{\numberline {3.4.2}Dynamic \acrshort {xrd}}{8}{subsubsection.3.4.2}
+\contentsline {section}{\numberline {4}DISCUSSION}{8}{section.4}
 \contentsline {section}{\numberline {5}CONCLUSIONS}{8}{section.5}
 \contentsline {section}{\numberline {6}ACKNOWLEDGEMENTS}{8}{section.6}
 \contentsline {section}{\numberline {7}REFERENCES}{8}{section.7}
