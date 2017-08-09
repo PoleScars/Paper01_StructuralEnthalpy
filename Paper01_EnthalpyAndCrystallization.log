@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  9 AUG 2017 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  9 AUG 2017 15:49
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1517,7 +1517,7 @@ Package pdftex.def Info: ./images/DSC_Fragility_Bulk.png used on input line 124
 .
 (pdftex.def)             Requested size: 314.40001pt x 240.59341pt.
 
-<./images/DSC_Fragility_Film.png, id=238, 774.7344pt x 592.8549pt>
+<./images/DSC_Fragility_Film.png, id=242, 774.7344pt x 592.8549pt>
 File: ./images/DSC_Fragility_Film.png Graphic file (type png)
 
 <use ./images/DSC_Fragility_Film.png>
@@ -1525,7 +1525,7 @@ Package pdftex.def Info: ./images/DSC_Fragility_Film.png used on input line 132
 .
 (pdftex.def)             Requested size: 314.40001pt x 240.59341pt.
 
-<./images/Bulk_Film_Fragility.png, id=256, 774.7344pt x 592.8549pt>
+<./images/Bulk_Film_Fragility.png, id=264, 774.7344pt x 592.8549pt>
 File: ./images/Bulk_Film_Fragility.png Graphic file (type png)
 
 <use ./images/Bulk_Film_Fragility.png>
@@ -1540,7 +1540,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 170.
 [4]
-<./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png, id=286, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png, id=298, 597.31155pt x
  420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png Graphic file (typ
 e png)
@@ -1549,7 +1549,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.pn
 g used on input line 186.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png, id=287, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png, id=299, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1558,7 +1558,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.p
 ng used on input line 187.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png, id=288, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png, id=300, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1567,7 +1567,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.p
 ng used on input line 188.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png, id=289, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png, id=301, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1576,7 +1576,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.p
 ng used on input line 190.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png, id=290, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png, id=302, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1585,7 +1585,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.p
 ng used on input line 191.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png, id=291, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png, id=303, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1594,7 +1594,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.p
 ng used on input line 192.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png, id=292, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png, id=304, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1603,7 +1603,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.p
 ng used on input line 194.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png, id=293, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png, id=305, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1612,7 +1612,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.p
 ng used on input line 195.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png, id=294, 597.31155pt
+<./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png, id=306, 597.31155pt
  x 420.6114pt>
 File: ./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png Graphic file (t
 ype png)
@@ -1621,7 +1621,7 @@ Package pdftex.def Info: ./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.
 png used on input line 196.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png, id=297, 597.31155pt 
+<./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png, id=313, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1630,7 +1630,7 @@ Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.p
 ng used on input line 204.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png, id=298, 597.31155pt 
+<./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png, id=314, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1639,7 +1639,7 @@ Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.p
 ng used on input line 205.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png, id=299, 597.31155pt 
+<./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png, id=315, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1648,7 +1648,7 @@ Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.p
 ng used on input line 206.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png, id=300, 597.31155pt 
+<./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png, id=316, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1657,7 +1657,7 @@ Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.p
 ng used on input line 208.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png, id=301, 597.31155pt 
+<./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png, id=317, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1666,7 +1666,7 @@ Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.p
 ng used on input line 209.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png, id=302, 597.31155pt 
+<./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png, id=318, 597.31155pt 
 x 420.6114pt>
 File: ./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png Graphic file (ty
 pe png)
@@ -1675,7 +1675,7 @@ Package pdftex.def Info: ./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.p
 ng used on input line 210.
 (pdftex.def)             Requested size: 145.11053pt x 102.18105pt.
 
-<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png, id=303, 597.31155pt
+<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png, id=319, 597.31155pt
  x 420.6114pt>
 File: ./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png Graphic file (t
 ype png)
@@ -1687,7 +1687,7 @@ png used on input line 212.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/Bulk_Onset_Peaks_Relaxed_120C.png, id=322, 774.7344pt x 592.8549pt>
+<./images/Bulk_Onset_Peaks_Relaxed_120C.png, id=342, 774.7344pt x 592.8549pt>
 File: ./images/Bulk_Onset_Peaks_Relaxed_120C.png Graphic file (type png)
 
 <use ./images/Bulk_Onset_Peaks_Relaxed_120C.png>
@@ -1695,7 +1695,7 @@ Package pdftex.def Info: ./images/Bulk_Onset_Peaks_Relaxed_120C.png used on inp
 ut line 262.
 (pdftex.def)             Requested size: 266.03474pt x 203.57626pt.
 
-<./images/Onsets_BulkandFilm.png, id=323, 774.7344pt x 592.8549pt>
+<./images/Onsets_BulkandFilm.png, id=343, 774.7344pt x 592.8549pt>
 File: ./images/Onsets_BulkandFilm.png Graphic file (type png)
 
 <use ./images/Onsets_BulkandFilm.png>
@@ -1706,14 +1706,14 @@ Package pdftex.def Info: ./images/Onsets_BulkandFilm.png used on input line 270
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/Decon_Onsets_BR.png, id=367, 578.16pt x 408.68684pt>
+<./images/Decon_Onsets_BR.png, id=387, 578.16pt x 408.68684pt>
 File: ./images/Decon_Onsets_BR.png Graphic file (type png)
 
 <use ./images/Decon_Onsets_BR.png>
 Package pdftex.def Info: ./images/Decon_Onsets_BR.png used on input line 324.
 (pdftex.def)             Requested size: 290.22107pt x 205.14735pt.
 
-<./images/Decon_peak_area_BR.png, id=368, 578.16pt x 408.68684pt>
+<./images/Decon_peak_area_BR.png, id=388, 578.16pt x 408.68684pt>
 File: ./images/Decon_peak_area_BR.png Graphic file (type png)
 
 <use ./images/Decon_peak_area_BR.png>
@@ -1733,7 +1733,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/XRD_Annealing_Bulk.png, id=404, 816.651pt x 573.1011pt>
+<./images/XRD_Annealing_Bulk.png, id=424, 816.651pt x 573.1011pt>
 File: ./images/XRD_Annealing_Bulk.png Graphic file (type png)
 
 <use ./images/XRD_Annealing_Bulk.png>
@@ -1741,7 +1741,7 @@ Package pdftex.def Info: ./images/XRD_Annealing_Bulk.png used on input line 370
 .
 (pdftex.def)             Requested size: 411.14528pt x 288.53491pt.
 
-<./images/XRD_Annealing_Film.png, id=409, 816.651pt x 573.1011pt>
+<./images/XRD_Annealing_Film.png, id=429, 816.651pt x 573.1011pt>
 File: ./images/XRD_Annealing_Film.png Graphic file (type png)
 
 <use ./images/XRD_Annealing_Film.png>
@@ -1753,14 +1753,14 @@ Package pdftex.def Info: ./images/XRD_Annealing_Film.png used on input line 378
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\acrshort' on input line 383.
 
-[7] <./images/XRD_Dynamic_Bulk.png, id=427, 816.651pt x 573.1011pt>
+[7] <./images/XRD_Dynamic_Bulk.png, id=447, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Bulk.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Bulk.png>
 Package pdftex.def Info: ./images/XRD_Dynamic_Bulk.png used on input line 392.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=428, 774.7344pt x 592.854
+<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=448, 774.7344pt x 592.854
 9pt>
 File: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png Graphic file (type png)
  <use ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png>
@@ -1768,14 +1768,14 @@ Package pdftex.def Info: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png used
 on input line 398.
 (pdftex.def)             Requested size: 362.77264pt x 277.61057pt.
 
-<./images/XRD_Dynamic_Film.png, id=433, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Film.png, id=453, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Film.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Film.png>
 Package pdftex.def Info: ./images/XRD_Dynamic_Film.png used on input line 411.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=434, 774.7344pt x 592.854
+<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=454, 774.7344pt x 592.854
 9pt>
 File: ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png Graphic file (type png)
  <use ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png>
@@ -1835,7 +1835,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 453.
 Here is how much of TeX's memory you used:
  43870 strings out of 493673
  938757 string characters out of 3143959
- 1122293 words of memory out of 3000000
+ 1122655 words of memory out of 3000000
  46385 multiletter control sequences out of 15000+200000
  39527 words of font info for 101 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -1881,10 +1881,10 @@ blic/mathpazo/fplmr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpaz
 o/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (21 pages, 1898967 byt
+Output written on Paper01_EnthalpyAndCrystallization.pdf (21 pages, 1901470 byt
 es).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
+ 578 PDF objects out of 1000 (max. 8388607)
  94 named destinations out of 1000 (max. 500000)
  366 words of extra memory for PDF output out of 10000 (max. 10000000)
 
