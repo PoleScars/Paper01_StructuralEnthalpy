@@ -1,5 +1,5 @@
-%\documentclass[a4paper,12pt,oneside]{article}%FinalView
-\documentclass[draft,a4paper,12pt,oneside]{article}%draftView
+\documentclass[a4paper,12pt,oneside]{article}%FinalView
+%\documentclass[draft,a4paper,12pt,oneside]{article}%draftView
 
 \input{settings/preamble.tex}%Inputs Preamble for its .tex
 \usepackage[color]{showkeys}%Shows cross ref paths
@@ -92,7 +92,26 @@ Dynamic \acrshort{xrd} (D8, Bruker, Cu $K_{\alpha}$ X-ray source, $\lambda = 1.5
 \section{RESULTS}
 \subsection{Alloy composition}
 
-From the 35 minute depositions a nominal film thickness of $2.5 \mu m$ was obtained, giving a deposition rate of approximately $1.2 nm/s$. The temperature within the chamber was found to rise $2.9 - 3.5$\degree C, significantly less than the expected $20K$ suggested by similar setups \cite{Wang2014}.
+From the 35 minute depositions a nominal film thickness of $1.64 \pm 0.48 \mu m$ was obtained, giving a deposition rate of approximately $0.81 \pm 0.22 nm/s$, see Figure \ref{fig:Film_Thickness_DepRate}. The temperature within the chamber was found to rise $2.9 - 3.5$\degree C, significantly less than the expected $20K$ suggested by similar setups \cite{Wang2014}.
+
+%code to put 2 images side by side in a figure
+\begin{figure}[h]
+	\centering
+	%Image 1
+	\begin{subfigure}[htbp]{0.4\textwidth}
+		\includegraphics[width=\textwidth]{Film_Thickness.png}
+		\caption{}
+		\label{fig:Film_Thickness}
+	\end{subfigure}
+	%Image 2
+	\begin{subfigure}[htbp]{0.4\textwidth}
+		\includegraphics[width=\textwidth]{Deposition_Rate.png}
+		\caption{}
+		\label{fig:Deposition_Rate}
+	\end{subfigure}
+	\caption{(a) Box and whisker plot of the measured film thicknesses from depositions. (b) Box and whisker plot of the calculated deposition rates achieved.}%global caption
+	\label{fig:Film_Thickness_DepRate}
+\end{figure}
 
 \acrshort{eds} analysis shows good agreement in the nominal composition for both the bulk and film \MgZnCa, see Table \ref{tab:EDS_Composition}.
 
