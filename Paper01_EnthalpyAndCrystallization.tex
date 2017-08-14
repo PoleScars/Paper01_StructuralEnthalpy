@@ -1,5 +1,5 @@
-\documentclass[a4paper,12pt,oneside]{article}%FinalView
-%\documentclass[draft,a4paper,12pt,oneside]{article}%draftView
+%\documentclass[a4paper,12pt,oneside]{article}%FinalView
+\documentclass[draft,a4paper,12pt,oneside]{article}%draftView
 
 \input{settings/preamble.tex}%Inputs Preamble for its .tex
 \usepackage[color]{showkeys}%Shows cross ref paths
@@ -61,11 +61,11 @@ The structural nature and thermal stability of amorphous alloys is highly depend
 \section{METHOD}
 
 \subsection{Master alloy}
-The master alloy of \MgZnCa~ was produced using high-purity elements of Mg (99.85 wt\%), Zn (99.995 wt\%), and Ca (99.8 wt\%). The alloy was prepared with an in-house induction melting furnace within boron nitride coated graphite crucibles, purged with Ar (99.997 vol.\% purity) five times, and protected with a circulating Ar atmosphere. Alloy homogeneity was ensured by heating and cooling through a cycle of 700\degree C, 385\degree C, 650\degree C, 385\degree C, 650\degree C to a casting temperature of 500 \degree C and 450\degree C for injection and gravity casting respectively. Bulk amorphous \MgZnCa~ rods of $2.5 mm$ diameter and plates of thickness of $XX \mu m$ were produced by copper mold injection casting. The $25.4 mm$ diameter targets were prepared from a cylindrical copper mold gravity castings sectioned to thicknesses of $3.25 mm$. All samples and targets were stored under Ar when not being examined or used. 
+The master alloy of \MgZnCa~ was produced using high-purity elements of Mg (99.85 wt\%), Zn (99.995 wt\%), and Ca (99.8 wt\%). The alloy was prepared with an in-house induction melting furnace within boron nitride coated graphite crucibles, purged with Ar (99.997 vol.\% purity) five times, and protected with a circulating Ar atmosphere. Alloy homogeneity was ensured by heating and cooling through a cycle of 700\degree C, 385\degree C, 650\degree C, 385\degree C, 650\degree C to a casting temperature of 500 \degree C and 450\degree C for injection and gravity casting respectively. Bulk amorphous \MgZnCa~ rods of $2.5 mm$ diameter and plates of thickness of $XX \mu m$ were produced by copper mold injection casting. The $25.4 mm$ diameter targets were prepared from cylindrical copper mold gravity castings sectioned to thicknesses of $3.25 mm$. All samples and targets were stored under Ar when not being examined or used. 
 \todo{measure injection plate thickness with micrometer}
 
 \subsection{\acrshort{dc} magnetron sputtering}
-Films were produced from an in-house \acrshort{dc} magnetron sputtering facility with Ar working gas (99.997 vol.\% purity). The power was $15W$, typical voltage of $285-325V$, nominal chamber pressure of 1 bar, substrate temperature of $25$\degree C, and Ar flow of 3.01 \acrshort{sccm}. Films were deposited directly onto to Al \acrshort{dsc} lid substrates. Depositions were for a period of 35 minutes. Deposition rate was estimated at $1.2 nm/s$. 
+Films were produced from an in-house \acrshort{dc} magnetron sputtering facility with Ar working gas (99.997 vol.\% purity). The power was $15W$, typical voltage of $285-325V$, nominal chamber pressure of 1 bar, substrate temperature of $25$\degree C, and Ar flow of 3.01 \acrshort{sccm}. Films were deposited directly onto to Al \acrshort{dsc} lid substrates. Depositions were for a period of 35 minutes. Deposition rate was estimated at $0.8 nm/s$. 
 
 \subsection{Stylus profiler analysis}
 Nominal film thickness was measure by a stylus profiler (Dektak 2A, Bruker, Germany). A glass slide was placed under the substrates within the sputtering chamber, allowing the substrates to act as a mask. Profile measurements were taken by measuring the height difference between the bare glass and the film coated glass. This film thickness was used to estimate the sputter deposition rate.  
@@ -92,24 +92,30 @@ Dynamic \acrshort{xrd} (D8, Bruker, Cu $K_{\alpha}$ X-ray source, $\lambda = 1.5
 \section{RESULTS}
 \subsection{Alloy composition}
 
-From the 35 minute depositions a nominal film thickness of $1.64 \pm 0.48 \mu m$ was obtained, giving a deposition rate of approximately $0.81 \pm 0.22 nm/s$, see Figure \ref{fig:Film_Thickness_DepRate}. The temperature within the chamber was found to rise $2.9 - 3.5$\degree C, significantly less than the expected $20K$ suggested by similar setups \cite{Wang2014}.
+From the 35 minute depositions a nominal film thickness of $1.64 \pm 0.48 \mu m$ was obtained, giving a deposition rate of approximately $0.81 \pm 0.22 nm/s$. The temperature within the chamber was found to rise $2.9 - 3.5$\degree C, significantly less than the expected $20K$ suggested by similar setups \cite{Wang2014}, see Figure \ref{fig:Film_Thickness_DepRate}.
 
-%code to put 2 images side by side in a figure
+%code to put 3 images side by side in a figure
 \begin{figure}[h]
 	\centering
 	%Image 1
-	\begin{subfigure}[htbp]{0.4\textwidth}
+	\begin{subfigure}[htbp]{0.32\textwidth}
 		\includegraphics[width=\textwidth]{Film_Thickness.png}
 		\caption{}
 		\label{fig:Film_Thickness}
 	\end{subfigure}
 	%Image 2
-	\begin{subfigure}[htbp]{0.4\textwidth}
+	\begin{subfigure}[htbp]{0.32\textwidth}
 		\includegraphics[width=\textwidth]{Deposition_Rate.png}
 		\caption{}
 		\label{fig:Deposition_Rate}
 	\end{subfigure}
-	\caption{(a) Box and whisker plot of the measured film thicknesses from depositions. (b) Box and whisker plot of the calculated deposition rates achieved.}%global caption
+	%Image 3
+\begin{subfigure}[htbp]{0.32\textwidth}
+	\includegraphics[width=\textwidth]{Settling_Voltage.png}
+	\caption{}
+	\label{fig:Settling_Voltage}
+\end{subfigure}
+	\caption{(a) Box and whisker plot of the measured film thicknesses from depositions. (b) Box and whisker plot of the calculated deposition rates achieved. (c) Box and whisker plot of substrate temperature rise.}%global caption
 	\label{fig:Film_Thickness_DepRate}
 \end{figure}
 
