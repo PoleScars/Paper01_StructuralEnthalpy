@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  17 AUG 2017 10:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  18 AUG 2017 10:26
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1295,9 +1295,6 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen283
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\showkeys.sty"
-Package: showkeys 2014/10/28 v3.17 Show cite and label keys (DPC, MH)
-)
 (Paper01_EnthalpyAndCrystallization.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -1471,59 +1468,61 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
  [2]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 63.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 65.
  [1
 
 ]
-Underfull \hbox (badness 2426) in paragraph at lines 79--80
+Underfull \hbox (badness 2426) in paragraph at lines 78--79
 []\T1/ppl/m/n/12 Isothermal re-lax-ation []DSC was pre-formed by heat-ing sam-p
 les at $\OT1/ppl/m/n/12 20\OML/zplm/m/it/12 K\OT1/zplm/m/n/12 /\OML/zplm/m/it/1
 2 min$ \T1/ppl/m/n/12 to the
  []
 
-[2]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 95.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+[2] <./images/Film_Thickness.png, id=26, 774.7344pt x 592.8549pt>
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 101.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-<./images/Film_Thickness.png, id=26, 774.7344pt x 592.8549pt>
 <./images/Deposition_Rate.png, id=27, 774.7344pt x 592.8549pt>
-<./images/Settling_Voltage.png, id=28, 774.7344pt x 592.8549pt> [3]
-<./images/DSC_Fragility_Bulk.png, id=35, 774.7344pt x 592.8549pt>
-<./images/DSC_Fragility_Film.png, id=36, 774.7344pt x 592.8549pt> [4]
-<./images/Bulk_Film_Fragility.png, id=41, 774.7344pt x 592.8549pt>
-<./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png, id=42, 597.31155pt x 
+<./images/Temperature_Rise.png, id=28, 774.7344pt x 592.8549pt> [3]
+<./images/DSC_Fragility_Bulk.png, id=33, 774.7344pt x 592.8549pt>
+<./images/DSC_Fragility_Film.png, id=34, 774.7344pt x 592.8549pt> [4]
+<./images/Bulk_Film_Fragility.png, id=39, 774.7344pt x 592.8549pt>
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 195.
+
+<./images/input_Raw_Bulk_NoLeveling_5Ks_result_A5lsc.png, id=40, 597.31155pt x 
 420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png, id=43, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.png, id=41, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png, id=44, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png, id=42, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png, id=45, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_20Ks_result_A5lsc.png, id=43, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png, id=46, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_30Ks_result_A5lsc.png, id=44, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png, id=47, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png, id=45, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png, id=48, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png, id=46, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png, id=49, 597.31155pt x
+<./images/input_Raw_Bulk_NoLeveling_80Ks_result_A5lsc.png, id=47, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png, id=50, 597.31155pt 
+<./images/input_Raw_Bulk_NoLeveling_100Ks_result_A5lsc.png, id=48, 597.31155pt 
 x 420.6114pt>
-<./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png, id=51, 597.31155pt x
+<./images/input_Raw_Film_NoLeveling_15Ks_result_A5lsc.png, id=49, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png, id=52, 597.31155pt x
+<./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png, id=50, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png, id=53, 597.31155pt x
+<./images/input_Raw_Film_NoLeveling_30Ks_result_A5lsc.png, id=51, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png, id=54, 597.31155pt x
+<./images/input_Raw_Film_NoLeveling_40Ks_result_A5lsc.png, id=52, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png, id=55, 597.31155pt x
+<./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc.png, id=53, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png, id=56, 597.31155pt x
+<./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png, id=54, 597.31155pt x
  420.6114pt>
-<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png, id=57, 597.31155pt 
+<./images/input_Raw_Film_NoLeveling_100Ks_result_A5lsc.png, id=55, 597.31155pt 
 x 420.6114pt>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1531,21 +1530,21 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/Onsets_BulkandFilm.png, id=58, 774.7344pt x 592.8549pt> [5]
+<./images/Onsets_BulkandFilm.png, id=56, 774.7344pt x 592.8549pt> [5]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/Decon_Onsets_BR.png, id=64, 578.16pt x 408.68684pt>
-<./images/Decon_peak_area_BR.png, id=65, 578.16pt x 408.68684pt> [6] [7]
-<./images/XRD_Annealing_Bulk.png, id=72, 816.651pt x 573.1011pt>
-<./images/XRD_Annealing_Film.png, id=73, 816.651pt x 573.1011pt>
-<./images/XRD_Dynamic_Bulk.png, id=74, 816.651pt x 573.1011pt>
-<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=75, 774.7344pt x 592.8549
-pt> <./images/XRD_Dynamic_Film.png, id=76, 816.651pt x 573.1011pt>
-<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=77, 774.7344pt x 592.8549
+<./images/Decon_Onsets_BR.png, id=62, 578.16pt x 408.68684pt>
+<./images/Decon_peak_area_BR.png, id=63, 578.16pt x 408.68684pt> [6] [7]
+<./images/XRD_Annealing_Bulk.png, id=70, 816.651pt x 573.1011pt>
+<./images/XRD_Annealing_Film.png, id=71, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Bulk.png, id=72, 816.651pt x 573.1011pt>
+<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=73, 774.7344pt x 592.8549
+pt> <./images/XRD_Dynamic_Film.png, id=74, 816.651pt x 573.1011pt>
+<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=75, 774.7344pt x 592.8549
 pt> [8] (Paper01_EnthalpyAndCrystallization.bbl
 Underfull \hbox (badness 1635) in paragraph at lines 10--14
 []\T1/ppl/m/n/12 R. Busch, W. Liu, and W. L. John-son.  Ther-mo-dy-nam-ics and 
@@ -1559,7 +1558,7 @@ Underfull \hbox (badness 2495) in paragraph at lines 10--14
  []
 
 [9])
-<./images/XRD_Normalised_Annealing_BulkFilm_Facet.png, id=84, 774.7344pt x 592.
+<./images/XRD_Normalised_Annealing_BulkFilm_Facet.png, id=82, 774.7344pt x 592.
 8549pt>
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
@@ -1567,39 +1566,36 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 483.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 482.
  [11] [12] [13] [14] [15] [16] [17] [18] [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 483.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 482.
 
 (Paper01_EnthalpyAndCrystallization.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 483.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 483.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 483.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 482.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 482.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 482.
  ) 
 Here is how much of TeX's memory you used:
- 43822 strings out of 493673
- 937862 string characters out of 3143959
- 1137447 words of memory out of 3000000
- 46425 multiletter control sequences out of 15000+200000
- 41085 words of font info for 104 fonts, out of 3000000 for 9000
+ 43763 strings out of 493673
+ 937023 string characters out of 3143959
+ 1130905 words of memory out of 3000000
+ 46370 multiletter control sequences out of 15000+200000
+ 39840 words of font info for 102 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 64i,16n,77p,10453b,714s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,11n,77p,10453b,714s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Scott\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ectt1095.pk> <C:\Users\Scott\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ectt1200.pk> <C:\Users\Scott\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ectt1000.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fo
-ntname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/pal
-atino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.
-pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (22 pages, 195308 byte
+ectt1200.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/mathpazo/fplmr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/
+uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Paper01_EnthalpyAndCrystallization.pdf (22 pages, 154768 byte
 s).
 PDF statistics:
- 306 PDF objects out of 1000 (max. 8388607)
+ 192 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
