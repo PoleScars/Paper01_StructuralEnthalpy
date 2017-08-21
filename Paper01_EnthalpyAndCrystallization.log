@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  18 AUG 2017 11:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  21 AUG 2017 15:49
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1819,7 +1819,7 @@ ng)
  <use ./images/XRD_Normalised_Annealing_BulkFilm_Facet.png>
 Package pdftex.def Info: ./images/XRD_Normalised_Annealing_BulkFilm_Facet.png u
 sed on input line 477.
-(pdftex.def)             Requested size: 411.14528pt x 314.62773pt.
+(pdftex.def)             Requested size: 478.86255pt x 366.4445pt.
 
 <./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png, id=528, 774.7344pt x 592.8
 549pt>
@@ -1828,7 +1828,7 @@ File: ./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png Graphic file (type png
  <use ./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png>
 Package pdftex.def Info: ./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png use
 d on input line 485.
-(pdftex.def)             Requested size: 411.14528pt x 314.62773pt.
+(pdftex.def)             Requested size: 478.86255pt x 366.4445pt.
 
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
@@ -1916,7 +1916,7 @@ blic/mathpazo/fplmr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpaz
 o/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (23 pages, 2161552 byt
+Output written on Paper01_EnthalpyAndCrystallization.pdf (23 pages, 2161559 byt
 es).
 PDF statistics:
  645 PDF objects out of 1000 (max. 8388607)
