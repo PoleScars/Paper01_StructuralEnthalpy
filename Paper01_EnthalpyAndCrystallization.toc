@@ -20,8 +20,8 @@
 \contentsline {subsection}{\numberline {3.4}\acrshort {xrd}}{7}{subsection.3.4}
 \contentsline {subsubsection}{\numberline {3.4.1}Annealing \acrshort {xrd}}{7}{subsubsection.3.4.1}
 \contentsline {subsubsection}{\numberline {3.4.2}Dynamic \acrshort {xrd}}{8}{subsubsection.3.4.2}
-\contentsline {section}{\numberline {4}DISCUSSION}{8}{section.4}
+\contentsline {section}{\numberline {4}DISCUSSION}{9}{section.4}
 \contentsline {section}{\numberline {5}CONCLUSIONS}{9}{section.5}
 \contentsline {section}{\numberline {6}ACKNOWLEDGEMENTS}{9}{section.6}
-\contentsline {section}{\numberline {7}REFERENCES}{9}{section.7}
+\contentsline {section}{\numberline {7}REFERENCES}{10}{section.7}
 \contentsfinish 

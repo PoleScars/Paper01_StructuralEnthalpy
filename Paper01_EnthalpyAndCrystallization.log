@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  22 AUG 2017 17:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.20)  24 AUG 2017 16:01
 entering extended mode
 **Paper01_EnthalpyAndCrystallization.tex
 (Paper01_EnthalpyAndCrystallization.tex
@@ -1769,37 +1769,42 @@ Package pdftex.def Info: ./images/XRD_Annealing_Film.png used on input line 398
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\acrshort' on input line 403.
 
-<./images/XRD_Dynamic_Bulk.png, id=485, 816.651pt x 573.1011pt>
+[8]
+Overfull \hbox (20.33936pt too wide) in paragraph at lines 415--432
+ [][] 
+ []
+
+<./images/XRD_Dynamic_Bulk.png, id=499, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Bulk.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Bulk.png>
-Package pdftex.def Info: ./images/XRD_Dynamic_Bulk.png used on input line 414.
+Package pdftex.def Info: ./images/XRD_Dynamic_Bulk.png used on input line 441.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=486, 774.7344pt x 592.854
+<./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png, id=500, 774.7344pt x 592.854
 9pt>
 File: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png Graphic file (type png)
  <use ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png>
 Package pdftex.def Info: ./images/Bulk_Heated_XRD_Waterfall3D_Smooth2.png used 
-on input line 420.
+on input line 447.
 (pdftex.def)             Requested size: 362.77264pt x 277.61057pt.
 
-<./images/XRD_Dynamic_Film.png, id=491, 816.651pt x 573.1011pt>
+<./images/XRD_Dynamic_Film.png, id=505, 816.651pt x 573.1011pt>
 File: ./images/XRD_Dynamic_Film.png Graphic file (type png)
 
 <use ./images/XRD_Dynamic_Film.png>
-Package pdftex.def Info: ./images/XRD_Dynamic_Film.png used on input line 433.
+Package pdftex.def Info: ./images/XRD_Dynamic_Film.png used on input line 460.
 (pdftex.def)             Requested size: 362.77264pt x 254.58757pt.
 
-<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=492, 774.7344pt x 592.854
+<./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png, id=506, 774.7344pt x 592.854
 9pt>
 File: ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png Graphic file (type png)
  <use ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png>
 Package pdftex.def Info: ./images/TF_Facet_HeatXRD_Waterfall3D_Smooth.png used 
-on input line 439.
+on input line 466.
 (pdftex.def)             Requested size: 362.77264pt x 277.61057pt.
- [8]
-(Paper01_EnthalpyAndCrystallization.bbl
+
+(Paper01_EnthalpyAndCrystallization.bbl [9]
 Underfull \hbox (badness 1635) in paragraph at lines 10--14
 []\T1/ppl/m/n/12 R. Busch, W. Liu, and W. L. John-son.  Ther-mo-dy-nam-ics and 
 ki-net-ics of the
@@ -1811,23 +1816,23 @@ Underfull \hbox (badness 2495) in paragraph at lines 10--14
 /12 Jour-nal of Ap-plied Physics\T1/ppl/m/n/12 ,
  []
 
-[9])
-<./images/XRD_Normalised_Annealing_BulkFilm_Facet.png, id=523, 774.7344pt x 592
+[10])
+<./images/XRD_Normalised_Annealing_BulkFilm_Facet.png, id=533, 774.7344pt x 592
 .8549pt>
 File: ./images/XRD_Normalised_Annealing_BulkFilm_Facet.png Graphic file (type p
 ng)
  <use ./images/XRD_Normalised_Annealing_BulkFilm_Facet.png>
 Package pdftex.def Info: ./images/XRD_Normalised_Annealing_BulkFilm_Facet.png u
-sed on input line 477.
+sed on input line 504.
 (pdftex.def)             Requested size: 478.86255pt x 366.4445pt.
 
-<./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png, id=528, 774.7344pt x 592.8
+<./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png, id=538, 774.7344pt x 592.8
 549pt>
 File: ./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png Graphic file (type png
 )
  <use ./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png>
 Package pdftex.def Info: ./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png use
-d on input line 485.
+d on input line 512.
 (pdftex.def)             Requested size: 478.86255pt x 366.4445pt.
 
 
@@ -1835,43 +1840,43 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.)
 This document will not have a glossary.
 
-[10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 490.
- [11 <./images/DSC_Fragility_Bulk.png> <./images/DSC_Fragility_Film.png>]
-[12 <./images/Bulk_Film_Fragility.png>] [13 <./images/input_Raw_Bulk_NoLeveling
+[11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 517.
+ [12 <./images/DSC_Fragility_Bulk.png> <./images/DSC_Fragility_Film.png>]
+[13 <./images/Bulk_Film_Fragility.png>] [14 <./images/input_Raw_Bulk_NoLeveling
 _5Ks_result_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_10Ks_result_A5lsc.pn
 g> <./images/input_Raw_Bulk_NoLeveling_15Ks_result_A5lsc.png> <./images/input_R
 aw_Bulk_NoLeveling_20Ks_result_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_3
 0Ks_result_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_40Ks_result_A5lsc.png
 > <./images/input_Raw_Bulk_NoLeveling_60Ks_result_A5lsc.png> <./images/input_Ra
 w_Bulk_NoLeveling_80Ks_result_A5lsc.png> <./images/input_Raw_Bulk_NoLeveling_10
-0Ks_result_A5lsc.png>] [14 <./images/input_Raw_Film_NoLeveling_15Ks_result_A5ls
+0Ks_result_A5lsc.png>] [15 <./images/input_Raw_Film_NoLeveling_15Ks_result_A5ls
 c.png> <./images/input_Raw_Film_NoLeveling_20Ks_result_A5lsc.png> <./images/inp
 ut_Raw_Film_NoLeveling_30Ks_result_A5lsc.png> <./images/input_Raw_Film_NoLeveli
 ng_40Ks_result_A5lsc.png> <./images/input_Raw_Film_NoLeveling_60Ks_result_A5lsc
 .png> <./images/input_Raw_Film_NoLeveling_80Ks_result_A5lsc.png> <./images/inpu
 t_Raw_Film_NoLeveling_100Ks_result_A5lsc.png> <./images/Onsets_BulkandFilm.png>
-] [15 <./images/Decon_Onsets_BR.png> <./images/Decon_peak_area_BR.png>]
-[16 <./images/XRD_Annealing_Bulk.png> <./images/XRD_Annealing_Film.png>]
-[17 <./images/XRD_Dynamic_Bulk.png> <./images/Bulk_Heated_XRD_Waterfall3D_Smoot
-h2.png>] [18 <./images/XRD_Dynamic_Film.png> <./images/TF_Facet_HeatXRD_Waterfa
-ll3D_Smooth.png>] [19 <./images/XRD_Normalised_Annealing_BulkFilm_Facet.png>]
-[20 <./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 490.
+] [16 <./images/Decon_Onsets_BR.png> <./images/Decon_peak_area_BR.png>]
+[17 <./images/XRD_Annealing_Bulk.png> <./images/XRD_Annealing_Film.png>]
+[18 <./images/XRD_Dynamic_Bulk.png> <./images/Bulk_Heated_XRD_Waterfall3D_Smoot
+h2.png>] [19 <./images/XRD_Dynamic_Film.png> <./images/TF_Facet_HeatXRD_Waterfa
+ll3D_Smooth.png>] [20 <./images/XRD_Normalised_Annealing_BulkFilm_Facet.png>]
+[21 <./images/XRD_Normalised_Dynamic_BulkFilm_Facet.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 517.
 
 (Paper01_EnthalpyAndCrystallization.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 490.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 490.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 517.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 517.
 Package rerunfilecheck Info: File `Paper01_EnthalpyAndCrystallization.out' has 
 not changed.
 (rerunfilecheck)             Checksum: 60F6FC5D882755515941B05D1DA6F44D;1613.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 490.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 517.
  ) 
 Here is how much of TeX's memory you used:
- 43911 strings out of 493673
- 939960 string characters out of 3143959
- 1136792 words of memory out of 3000000
- 46417 multiletter control sequences out of 15000+200000
+ 43917 strings out of 493673
+ 940028 string characters out of 3143959
+ 1136504 words of memory out of 3000000
+ 46421 multiletter control sequences out of 15000+200000
  39527 words of font info for 101 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  64i,11n,77p,10453b,714s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1916,10 +1921,10 @@ blic/mathpazo/fplmr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpaz
 o/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Paper01_EnthalpyAndCrystallization.pdf (23 pages, 2167685 byt
+Output written on Paper01_EnthalpyAndCrystallization.pdf (24 pages, 2170150 byt
 es).
 PDF statistics:
- 645 PDF objects out of 1000 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
+ 653 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
  386 words of extra memory for PDF output out of 10000 (max. 10000000)
 
